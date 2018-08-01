@@ -1,0 +1,9 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "akeepr": {
+      "description": "A blank schematic.",
+      "factory": "./akeepr/index#akeepr"
+    }
+  }
+}
